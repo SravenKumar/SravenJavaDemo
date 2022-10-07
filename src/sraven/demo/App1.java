@@ -10,7 +10,7 @@ public class App1 {
 
 		System.out.println(App1.today);
 		
-		today = DayOfTheWeek.FRIDAY;
+		today = DayOfTheWeek.TUESDAY;
 		
 		System.out.println(App1.today);
 
