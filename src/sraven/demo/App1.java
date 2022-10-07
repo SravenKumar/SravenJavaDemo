@@ -12,6 +12,10 @@ public class App1 {
 		
 		today = DayOfTheWeek.TUESDAY;
 		
+		
+		
+		
+		
 		System.out.println(App1.today);
 
 		
